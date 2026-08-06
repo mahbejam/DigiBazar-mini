@@ -78,11 +78,11 @@ DigiBazar-Mini/
 
 ### Homepage
 
-![DigiBazar Mini Homepage](screenshots/HomePage.png)
+![DigiBazar Mini Homepage](screenshots/homepage.png)
 
 ### Shop Page
 
-![DigiBazar Mini Shop Page](screenshots/Shop.png)
+![DigiBazar Mini Shop Page](screenshots/shop.png)
 
 ### Product Page
 
