@@ -1,0 +1,39 @@
+# Environment
+.env
+
+# WordPress local runtime (includes uploads)
+wordpress/
+
+# Explicit upload / cache paths (if wordpress/ structure changes)
+wordpress/wp-content/uploads/
+wordpress/wp-content/upgrade/
+wordpress/wp-content/cache/
+
+# Database dumps and local DB files
+*.sql
+*.sql.gz
+*.sqlite
+*.db
+
+# Temporary and log files
+*.log
+*.tmp
+*.temp
+*.swp
+*~
+tmp/
+temp/
+.cache/
+
+# IDE / editor
+.idea/
+.vscode/
+*.code-workspace
+.cursor/
+
+# Operating system
+.DS_Store
+Thumbs.db
+Desktop.ini
+ehthumbs.db
+$RECYCLE.BIN/
