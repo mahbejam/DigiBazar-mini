@@ -74,27 +74,22 @@ DigiBazar-Mini/
 └── wordpress/            # Local wp-content mount (not committed)
     └── wp-content/
 ```
-
 ## Screenshots
 
-Add real screenshots to the `screenshots/` folder using these filenames:
+### Homepage
 
-| Screen | Placeholder file |
-|--------|------------------|
-| Homepage | `screenshots/homepage.png` |
-| Shop page | `screenshots/shop.png` |
-| Product page | `screenshots/product.png` |
+![DigiBazar Mini Homepage](screenshots/homepage.png)
 
-![Homepage](screenshots/homepage.png)
+### Shop Page
 
-![Shop page](screenshots/shop.png)
+![DigiBazar Mini Shop Page](screenshots/shop.png)
 
-![Product page](screenshots/product.png)
+### Product Page
 
+![DigiBazar Mini Product Page](screenshots/product-page.png)
 
 ## Future Improvements
 
-- Add real portfolio screenshots to this README
 - Refine product copy and downloadable demo files
 - Improve navigation and shop page layout in the block editor
 - Optional staging or cloud deployment for public demos
